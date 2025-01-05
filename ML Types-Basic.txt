@@ -1,0 +1,63 @@
+ML :
+ML is branch of AI, a technique that learn from data by itself & without being explicitly programmed.
+
+Types of ML:
+
+1.Supervised ML
+   Machine learns from labelled data & under supervision of programmer
+2.Unsupervised ML
+   Learns from Un labelled data
+3.Reinforcement learning
+   How intelligent Agents take actions in an environment to maximize its rewards
+
+
+1.SUPERVISED LEARNING :
+   Learns from labelled data.
+
+    Types of Supervised Learning:
+
+     1.Classification:
+        Predicting a class or discrete values
+        Eg. True or False ,Yes or No ,Cat or Dog etc..
+       Algorithms:
+        Decision Tree classification
+        Random Forest classification
+        Logistic regression
+        k nearest neighbour
+
+     2.Regression:
+        Predicting continuous values as input value varies..
+        Eg. price ,salary , age etc..
+       Algorithms:
+        Polynomial regression
+        Support vector Machine(SVM)
+
+2.UNSUPERVISED LEARNING :
+   Learns from un labelled data.
+
+   Types of Unsupervised Learning:
+
+    1.Clustering:
+        Grouping the similar data points
+        Eg. Consider a basket containing mix of apples & mangoes ,clustering divides into two groups based on features like color ,shape etc..
+       Algorithms:
+        K-means clustering
+        Hierarchical clustering
+        Dense-based clustering 
+
+    2.Association:
+        To find important relationship between data points
+        Eg. Suggesting movies in Netflix etc..
+       Algorithms:
+        Principal component analysis
+        Apriori
+        Eclat
+
+3.REINFORCEMENT LEARNING :
+    -Reinforcement Learning (RL) is a type of machine learning that focuses on training agents to make a sequence of decisions by interacting with an environment. 
+    -The agent learns to achieve a specific goal by receiving feedback in the form of rewards or penalties based on its actions. 
+    -This feedback guides the agent to optimize its behavior over time.
+  Example : 
+     Game AI- Chess, Go, and StarCraft (e.g., AlphaGo, AlphaZero)
+     Robotics- walking, grasping objects, or navigation
+     Autonomous Vehicles
