@@ -1,0 +1,30 @@
+Deep learning:
+ Subfield of ML that uses Artificial Neural Networks to learn from the data,( Excels at handling large data).
+Each neuron has a mathematical function.
+
+ Example :
+* Diabetic Retinopathy
+ It determines if a person has retina deficiency or not , the output will be in binary either yes or no & also give excess data about retina like medical reports
+
+Process:
+ Images of healthy retina & unhealthy retina to the neural network after processing predicts output as either YES or NO
+
+ Applications of DL:
+1. Healthcare like above example
+2. Autonomous cars
+3. Computer vision
+
+
+
+Data science Libraries are used to enhance the data science workflow & they provide pre-built functions and algorithms , saving time & effort for Data scientists.
+
+Libraries:
+
+1. Numpy :
+ The foundational for numerical computations and array manipulation
+2. Pandas :
+ Essential for Data analysis and manipulation like creating DataFrames & processing it
+3. Matplotlib :
+ For creating static ,animated , and interactive visualizations
+4. Scikit-learn : 
+ Implements various machine learning algorithms for classification , regression ,clustering etc..
